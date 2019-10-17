@@ -7,7 +7,11 @@ package pbo.ulang.pkg10114504.latihan31.perkenalanmahasiswa;
 
 /**
  *
- * @author Andri
+ * @author
+ * NAMA     : Sandy Akbar
+ * KELAS    : PBO-Ulang
+ * NIM      : 10114504
+ * DESKRIPSI:Program Ini berisi class Perkenalan Mahasiswa
  */
 public class Mahasiswa {
     public String Nim, Nama;
